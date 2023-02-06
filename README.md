@@ -1,3 +1,5 @@
 # FrontEnd-Store
 
-Página realizada mediante HTML5 y CSS
+Página web realizada con HTML y CSS
+
+Página responsive
